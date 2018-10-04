@@ -1,6 +1,6 @@
 {
   "name": "dilli-email-validation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Official email address validation for Node.js using Dilli Email Validation API(DEVA)",
   "main": "index.js",
   "scripts": {
