@@ -1,6 +1,6 @@
 ## dilli-email-validation
 
-Official email address validation for Node.js using Dilli Email Validation API(DEVA)
+Official email address validation for Node.js using Dilli Email Validation API(DEVA).
 
 Verify email addresses instantly using DEVA that does the following checks:
 - Format Validation (RFC defined grammar)
@@ -10,7 +10,7 @@ Verify email addresses instantly using DEVA that does the following checks:
 - Disposable/Temporary email addresses
 - Blacklisted email addresses
 
-You will need to sign up at [https://www.dillilabs.com/products/email-validation-api/](https://www.dillilabs.com/products/email-validation-api/) for a public API key.
+Sign up FREE for [Dilli Email Validation](https://www.dillilabs.com/products/email-validation-api/) to get your public API key. 
 
 ### Installation
 
