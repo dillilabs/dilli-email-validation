@@ -1,4 +1,4 @@
-## mailgun-validate
+## dilli-email-validation
 
 Official email address validation for Node.js using Dilli Email Validation API(DEVA)
 
