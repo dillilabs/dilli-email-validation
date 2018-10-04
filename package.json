@@ -1,0 +1,27 @@
+{
+  "name": "dilli-email-validation",
+  "version": "0.1.0",
+  "description": "Official email address validation for Node.js using Dilli Email Validation API(DEVA)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dillilabs/dilli-email-validation"
+  },
+  "keywords": [
+    "email",
+    "address",
+    "validation",
+    "api",
+    "dilli",
+    "deva"
+  ],
+  "author": "Dilli Labs <support@dillilabs.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillilabs/dilli-email-validation/issues"
+  },
+  "homepage": "https://www.dillilabs.com/products/email-validation-api/"
+}
