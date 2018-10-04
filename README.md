@@ -4,13 +4,14 @@ Official email address validation for Node.js using Dilli Email Validation API(D
 
 Verify email addresses instantly using DEVA that does the following checks:
 - Format Validation (RFC defined grammar)
-- Mail Exchanger existense (MX records exists or are resolvable)
+- Mail Exchanger existense (MX records exists or Mail Exchanger is resolvable)
 - Profanity check
 - Email Service Provider (ESP) specific local-part grammar rules
 - Disposable/Temporary email addresses
 - Blacklisted email addresses
+- Role-based email addresses
 
-Sign up FREE for [Dilli Email Validation](https://www.dillilabs.com/products/email-validation-api/) to get your public API key. 
+Sign up for [Dilli Email Validation](https://www.dillilabs.com/products/email-validation-api/) for FREE to get your public API key. 
 
 ### Installation
 
