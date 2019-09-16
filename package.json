@@ -1,7 +1,7 @@
 {
   "name": "dilli-email-validation",
-  "version": "0.1.2",
-  "description": "Official email address validation for Node.js using Dilli Email Validation API(DEVA)",
+  "version": "1.0.0",
+  "description": "Verify email addresses in real-time using Dilli Email Validation API (DEVA).",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,9 @@
     "email",
     "address",
     "validation",
+    "verify",
+    "mailgun",
+    "sendgrid",
     "api",
     "dilli",
     "deva"
